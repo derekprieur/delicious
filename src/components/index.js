@@ -1,0 +1,6 @@
+export { default as Popular } from './Popular'
+export { default as Vegan } from './Vegan'
+export { default as Wrapper } from './Wrapper'
+export { default as Card } from './Card'
+export { default as Gradient } from './Gradient'
+export { default as Category } from './Category'
